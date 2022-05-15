@@ -25,11 +25,11 @@ img{
 .img{
     height: 15px;
     width: 15px;
-    margin: 6px;
+    margin: 5px;
     cursor: pointer;
     background-color: rgb(127, 163, 216);
-    opacity: 1;
-    border-radius: 10px;
+    border: 10px solid rgb(48, 54, 56);
+    border-radius: 20px;
     transition: all .4s ease;
 }
 .img:hover{
