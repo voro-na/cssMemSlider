@@ -18,6 +18,7 @@ body{
 .navigation{
     display: flex;
     justify-content: right;
+
 }
 img{
     border-radius: 10px;
@@ -52,7 +53,6 @@ input{
     transition: all .6s ease;
     color: #fff;
     font-size: 20px;
-
 }
 .slide img{
     width: 100%;
